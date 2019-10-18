@@ -12,4 +12,4 @@ function solve(day){
 }
 console.log(solve("Monday"),
     solve("Friday"),
-    solve("Invalid"));
+    solve("Invalid"));1

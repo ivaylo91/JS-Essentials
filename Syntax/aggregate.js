@@ -8,6 +8,6 @@ function solve(...params) {
         params.reduce(add,0),
         params.reduce(addInverse,0),
         params.reduce(concat,"")
-    ]
+    ].join("\n");
 }
 console.log(solve(1,2,3));

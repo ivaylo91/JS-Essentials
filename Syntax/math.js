@@ -11,4 +11,4 @@ function solve(operation, ...params){
      ),Number(params.shift()));
 }
 
-console.log(solve("+",5,6,4,5,225,30,29));
+console.log(solve("+",5,6,10));
